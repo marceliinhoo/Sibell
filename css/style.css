@@ -73,3 +73,11 @@
 .rodape{
     color: black;
 }
+
+h3{
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+a{
+    text-decoration: none;
+}

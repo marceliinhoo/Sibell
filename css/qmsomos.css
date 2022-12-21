@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logosibell{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height: 70vh;
+}
+
+.txt{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height: 70vh;
+}
